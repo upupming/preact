@@ -183,3 +183,4 @@ MIT
 [preact/compat]: https://github.com/preactjs/preact/tree/main/compat
 [hyperscript]: https://github.com/dominictarr/hyperscript
 [DevTools]: https://github.com/preactjs/preact-devtools
+
